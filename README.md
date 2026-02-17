@@ -1,7 +1,4 @@
-# Data-structures-and-algorithm
-Data structures cat 1
 
-```
 
 ## **Data Structures and Algorithm**
 
